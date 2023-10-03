@@ -1,0 +1,44 @@
+#topMenu img{
+  width: 100%;
+  height:60px;
+}
+#middleImg {
+  background: url("https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-Go-3-EB-M001:VP5-1920x600") no-repeat center center;
+  height:500px;
+  background-size: contain;
+}
+.middleText {
+  position: relative;
+  top: 100px;
+  left: 150px;
+}
+#sign-in {
+  border: 1px solid #004030;
+  border-radius: 50%;
+  padding: 5px;
+}
+#navbar-text {
+  font-size: 13px;
+}
+.newButton {
+  background-color: #ffb900;
+}
+#preorder {
+  background-color:#0067b8;
+}
+#greater {
+  font-size: 25px;
+}
+#less {
+  font-size: 25px;
+}
+.col img{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  width: 20%;
+  height: 30%;
+}
+.col p {
+  text-decoration: underline;
+  color: #0067b8;
+}
